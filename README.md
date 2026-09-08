@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I’m currently working on CaffeineTTY, a terminal written in Java (which is very much still a work in progress).
+
 <!--
 **HumbleSeer42/HumbleSeer42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
