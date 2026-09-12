@@ -2,6 +2,8 @@
 
 I’m currently working on CaffeineTTY, a terminal written in Java (which is very much still a work in progress).
 
+I'm a big fan of Java.
+
 also I use arch, btw
 
 <!--
