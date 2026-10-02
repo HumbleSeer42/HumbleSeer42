@@ -1,10 +1,12 @@
-## Hi there 👋
+## Hey there 👋 🎃🎃🎃
+
+I'm HumbleSeer42
 
 I’m currently working on CaffeineTTY, a terminal written in Java (go check it out).
 
-I'm a big fan of Java and neovim.
+I'm a big fan of Java and neovim. (I'm also a big fan of self-hosting too)
 
-also I use arch, btw
+also I use arch, btw (pssst... [arch is the best](https://wiki.archlinux.org/title/Arch_is_the_best))
 
 <!--
 **HumbleSeer42/HumbleSeer42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
