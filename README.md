@@ -1,6 +1,6 @@
 ## Hey there 👋 🎃🎃🎃
 
-I'm HumbleSeer42
+I'm HumbleSeer
 
 I’m currently working on CaffeineTTY, a terminal written in Java (go check it out).
 
