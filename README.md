@@ -1,5 +1,7 @@
 ## Hey there 👋 🎃🎃🎃
 
+<!--[My Discord](https://discord-readme-badge.vercel.app/api?id=1042537653800796230)!-->
+
 I'm HumbleSeer
 
 I’m currently working on CaffeineTTY, a terminal written in Java (go check it out).
